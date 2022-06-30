@@ -17,7 +17,6 @@ public class MOD2_Soal1_1302194017 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         
         int loop_i, loop_j, a, b;
         int matriks_1302194017[][] = new int[10][10]; 

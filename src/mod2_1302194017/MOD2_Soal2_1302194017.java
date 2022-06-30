@@ -56,7 +56,7 @@ public class MOD2_Soal2_1302194017 {
         }
         System.out.println(" ");
         
-        int mencari; int simpan = 0;
+        int mencari;
         System.out.print("Masukkan angka yang ingin dicari : ");
         mencari = scan.nextInt();
         boolean cek = false;
