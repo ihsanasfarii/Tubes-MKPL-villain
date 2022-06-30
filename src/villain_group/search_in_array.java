@@ -5,10 +5,6 @@
  */
 package villain_group;
 
-/**
- *
- * @author Komang
- */
 import java.util.Scanner;
 
 public class search_in_array {
